@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Operaciones</string>
+    <string name="Titulo">Suma de dos numeros</string>
+    <string name="Numero">Primer numero</string>
+    <string name="Segundo">Segundo numero</string>
+    <string name="Boton">Sumar</string>
+    <string name="Resultado"></string>
+    <string name="Titulo2">El Resultado es</string>
+</resources>
